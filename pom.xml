@@ -39,32 +39,6 @@
         <version>9</version>
     </parent>
 
-    <licenses>
-        <license>
-            <name>MIT License</name>
-            <url>https://raw.github.com/hprose/hprose-java/master/LICENSE.md</url>
-        </license>
-    </licenses>
-    <scm>
-        <connection>scm:git:https://github.com/hprose/hprose-java.git</connection>
-        <developerConnection>scm:git:https://github.com/hprose/hprose-java.git</developerConnection>
-        <url>https://github.com/hprose/hprose-java</url>
-        <tag>v2.0.32</tag>
-    </scm>
-    <developers>
-        <developer>
-            <id>andot</id>
-            <name>Ma Bingyao</name>
-            <email>andot@hprose.com</email>
-            <organization>hprose</organization>
-            <organizationUrl>http://www.hprose.com</organizationUrl>
-        </developer>
-    </developers>
-
-    <issueManagement>
-        <system>GitHub Issues</system>
-        <url>https://github.com/hprose/hprose-java/issues</url>
-    </issueManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
