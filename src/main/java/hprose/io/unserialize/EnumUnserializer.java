@@ -23,6 +23,8 @@ import hprose.util.ClassUtil;
 import java.io.IOException;
 import java.lang.reflect.Type;
 
+import static hprose.io.HproseTags.TagNull;
+
 public final class EnumUnserializer implements Unserializer {
 
     public final static EnumUnserializer instance = new EnumUnserializer();
